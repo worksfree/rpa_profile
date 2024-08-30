@@ -10,6 +10,8 @@
 
 ![BOM2Excel_매뉴얼](./BOM2Excel_Manual.md)
 
+<href="./BOM2Excel_Manual.md" alt="BOM2Excel_매뉴얼">
+
 # DWG 파일 대량 출력
 MCT 기술자들은 아직도 DWG 파일을 종이로 출력해서 보는게 편한 사람이 많습니다.
 어느 날 설계 도면이 수십장에서 수백장이 한꺼번에 전달 됩니다.
