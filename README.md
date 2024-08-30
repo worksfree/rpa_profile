@@ -5,8 +5,9 @@
 
 아래는 Google 드라이브에 업로드된 GIF 파일입니다:
 
-![Google 드라이브 GIF](https://drive.google.com/uc?export=view&id=1aB2c3D4eFgH5ijKlmnOpQrstUVWXYz)
+![Google 드라이브 GIF](https://drive.google.com/uc?export=view&id=1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU)
 
+https://drive.google.com/file/d/1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU/view?usp=sharing
 
 <img src="[https://drive.google.com/file/d/1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU/view?usp=sharing](https://drive.google.com/file/d/1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU)" alt="BOM을 엑셀로 저장">
 
