@@ -7,9 +7,15 @@
 
 ![Google 드라이브 GIF](https://drive.google.com/uc?export=view&id=1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU)
 
+![Google 드라이브 GIF](https://drive.google.com/uc?export=view&id=1gH1Y2itHKaGUHRwcmSOOMtH-lXcDnwGU)
+
+https://drive.google.com/file/d/1gH1Y2itHKaGUHRwcmSOOMtH-lXcDnwGU/view?usp=drive_link
+
 https://drive.google.com/file/d/1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU/view?usp=sharing
 
-<img src="[https://drive.google.com/file/d/1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU/view?usp=sharing](https://drive.google.com/file/d/1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU)" alt="BOM을 엑셀로 저장">
+
+
+<img src="[https://drive.google.com/file/d/1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU/view?usp=sharing](https://drive.google.com/uc?export=view&id=1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU)" alt="BOM을 엑셀로 저장" width="300">
 
 # 구글 드라이브 GIF 예제
 아래는 구글 드라이브에 업로드된 GIF 파일입니다:
