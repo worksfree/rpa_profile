@@ -6,8 +6,7 @@
 적게는 수십개에서 수백개의 어셈블리에서 엑셀 내보내기 저장을 해야 합니다.
 아래는 이를 자동화한 프로그램의 데모 영상입니다.
 
-<img src="https://drive.google.com/uc?export=view&id=1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU" alt="BOM을 엑셀로 저장" width="300">
-![BOM2Excel](https://drive.google.com/uc?export=view&id=1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU)
+<img src="https://drive.google.com/uc?export=view&id=1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU" alt="BOM을 엑셀로 저장" width="1920">
 
 # DWG 파일 대량 출력
 MCT 기술자들은 아직도 DWG 파일을 종이로 출력해서 보는게 편한 사람이 많습니다.
