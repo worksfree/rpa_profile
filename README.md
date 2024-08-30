@@ -8,7 +8,7 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU" alt="BOM을 엑셀로 저장" width="600">
 
-![BOM2Excel 매뉴얼](./BOM2Excel_Manual.md)
+![BOM2Excel_매뉴얼](./BOM2Excel_Manual.md)
 
 # DWG 파일 대량 출력
 MCT 기술자들은 아직도 DWG 파일을 종이로 출력해서 보는게 편한 사람이 많습니다.
