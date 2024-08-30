@@ -14,15 +14,13 @@ Markdown 문서에 HTML과 JavaScript를 추가하여 5초 딜레이 후 GIF를 
     <title>GIF with Delay</title>
     <style>
         #gifImage {
-            display: none; /* GIF를 처음에 숨깁니다. */
+            display: none;
         }
     </style>
 </head>
 <body>
     <h1>5초 후에 GIF가 시작됩니다!</h1>
-    <!-- GIF를 포함합니다. -->
     <img id="gifImage" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="재미있는 고양이 GIF">
-
     <script>
         // 5초(5000밀리초) 후에 GIF를 표시합니다.
         setTimeout(function() {
