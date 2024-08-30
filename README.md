@@ -32,7 +32,7 @@ Markdown 문서에 HTML과 JavaScript를 추가하여 5초 딜레이 후 GIF를 
     </script>
 </body>
 </html>
-```
+
 
 # Google 드라이브 GIF 예제
 
