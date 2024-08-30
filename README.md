@@ -6,7 +6,9 @@
 적게는 수십개에서 수백개의 어셈블리에서 엑셀 내보내기 저장을 해야 합니다.
 아래는 이를 자동화한 프로그램의 데모 영상입니다.
 
-<img src="https://drive.google.com/uc?export=view&id=1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU" alt="BOM을 엑셀로 저장" width="1920">
+<img src="https://drive.google.com/uc?export=view&id=1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU" alt="BOM을 엑셀로 저장" width="600">
+
+![BOM2Excel 매뉴얼](./BOM2Excel_Manual.md)
 
 # DWG 파일 대량 출력
 MCT 기술자들은 아직도 DWG 파일을 종이로 출력해서 보는게 편한 사람이 많습니다.
@@ -14,5 +16,4 @@ MCT 기술자들은 아직도 DWG 파일을 종이로 출력해서 보는게 편
 그런데 eDrawingsViewer는 도면을 한꺼번에 출력하는 기능이 없습니다.
 아래는 이런 경우 도면이 있는 폴더를 지정해서 반복해서 출력하는 프로그램의 데모 영상입니다.
 
-![DWG_대량_출력](https://drive.google.com/uc?export=view&id=1gH1Y2itHKaGUHRwcmSOOMtH-lXcDnwGU)
-
+<img src="https://drive.google.com/uc?export=view&id=1gH1Y2itHKaGUHRwcmSOOMtH-lXcDnwGU" alt="BOM을 엑셀로 저장" width="600">
