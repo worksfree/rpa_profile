@@ -9,9 +9,6 @@
 ## 원본
 <img src="https://drive.google.com/uc?export=view&id=1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU" alt="BOM을 엑셀로 저장" width="600">
 
-## 수정본
-<img src="https://drive.google.com/uc?export=view&id=1r7v9DUundoxE8rmR3cWyg2kCTpT-49Wv" alt="BOM을 엑셀로 저장" width="600">
-
 
 # <a href="./BOM2Excel_Manual.md" target="_self">BOM2Excel_매뉴얼</a>
 
