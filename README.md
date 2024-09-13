@@ -7,7 +7,7 @@
 아래는 이를 자동화한 프로그램의 데모 영상입니다.
 
 ## 원본
-<img src="https://drive.google.com/uc?export=view&id=1FM1RmmAGy1k-bqaVY5MkwD0xUpHSYcNU" alt="BOM을 엑셀로 저장" width="600">
+<img src="https://github.com/insung-lee/rpa_profile/blob/main/new_bom2excel_0830-%EC%9E%90%EB%A7%895.gif" alt="BOM을 엑셀로 저장" width="600">
 
 
 # <a href="./BOM2Excel_Manual.md" target="_self">BOM2Excel_매뉴얼</a>
