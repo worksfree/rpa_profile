@@ -16,4 +16,5 @@ MCT 기술자들은 아직도 DWG 파일을 종이로 출력해서 보는게 편
 그런데 eDrawingsViewer는 도면을 한꺼번에 출력하는 기능이 없습니다.
 아래는 이런 경우 도면이 있는 폴더를 지정해서 반복해서 출력하는 프로그램의 데모 영상입니다.
 
+<img src="https://github.com/insung-lee/rpa_profile/blob/main/DWG_대량출력-with_mosaic-자막2.gif" alt="BOM을 엑셀로 저장" width="600">
 <img src="https://drive.google.com/uc?export=view&id=1gH1Y2itHKaGUHRwcmSOOMtH-lXcDnwGU" alt="BOM을 엑셀로 저장" width="600">
