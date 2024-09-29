@@ -7,7 +7,7 @@
 
 <img src="https://github.com/insung-lee/rpa_profile/blob/main/new_bom2excel_0830-자막5.gif" alt="BOM을 엑셀로 저장" width="600">
 
-<--! ## <a href="./BOM2Excel_Manual.md" target="_self">BOM2Excel_매뉴얼</a> -->
+<!-- ## <a href="./BOM2Excel_Manual.md" target="_self">BOM2Excel_매뉴얼</a> -->
 
 ## DWG 파일 대량 출력 자동화
 MCT 기술자들은 아직도 DWG 파일을 종이로 출력해서 보는게 편한 사람이 많습니다.
