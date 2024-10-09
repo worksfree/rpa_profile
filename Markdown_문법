@@ -3,7 +3,9 @@ Markdown 문법
 
 수학 및 통계 기호
 
-엑스햇은 $\hat{x}$
+엑스햇
+
+$$\hat{x}$$
 
 $$\widehat{x}$$
 
