@@ -79,7 +79,7 @@ H2 = 109.2 × 52 = 5,678.4 원
 
 ## 【문제 2】 다음 그림은 어떤 과업에 대한 PERT 네트워크를 작성한 것이다. 과업을구성하는 7개의 세부 활동에 대한 사항은 아래의 표와 같을 때 각물음에답하시오. (단, 소수점 셋째자리에서 반올림하여 소수점 둘째자리까지구한다.) (30점)
 
-<table>
+<table style="text-align:center;">
   <tr> <th rowspan="2">번호</th><th rowspan="2">활동</th><th rowspan="2">선행활동</th>
             <th colspan="3"><center>소요시간(단위: 일)</center></th> </tr>
   <tr> <th>낙관적 시간</th><th>최빈 시간</th><th>비관적 시간</th> </tr>
@@ -111,7 +111,7 @@ H2 = 109.2 × 52 = 5,678.4 원
 -------------
 ### [문제 2 - (1) ] 주경로와 과업 소요시간의 기댓값과 분산
 
-<table>
+<table style="text-align:center;">
   <tr> <th>번호</th> <th>활동</th> <th>선행활동</th> <th>낙관적 시간 (a)</th>
        <th>최빈 시간 (m)</th> <th>비관적 시간 (b)</th> <th>기댓값 (TE)</th> <th>분산 (V)</th> </tr>
   <tr> 
