@@ -14,11 +14,7 @@
     <li>
       <a href="#about-the-project">제 39회 2차 시험</a>
       <ul>
-        <li><a href="#built-with">생산관리</a></li>
-        <ul>
-          <li><a href="./기출문제.md#39회_생산관리">(기출문제)</a></li>
-          <li><a href="./예시답안.md#39회_생산관리_예시답안">(예시답안)</a></li>
-        </ul>
+        <li><a href="#built-with">생산관리</a> <a href="./기출문제.md#39회_생산관리">(기출문제)</a> <a href="./예시답안.md#39회_생산관리_예시답안">(예시답안)</li>
       </ul>
       <ul>
         <li><a href="#built-with">품질경영</a></li>
