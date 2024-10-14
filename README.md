@@ -17,4 +17,4 @@ MCT 기술자들은 아직도 DWG 파일을 종이로 출력해서 보는게 편
 
 <img src="DWG_대량출력-with_mosaic-자막2.gif" alt="BOM을 엑셀로 저장" width="600">
 
-<a href="mgt/기출문제.md" target="_self">경영지도사 39회 문제보기</a>
+<a href="mgt/Readme.md" target="_self">경영지도사 39회 문제보기</a>
