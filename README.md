@@ -5,6 +5,8 @@
 적게는 수십개에서 수백개의 어셈블리에서 엑셀 내보내기 저장을 해야 합니다.
 아래는 이를 자동화한 프로그램의 데모 영상입니다.
 
+<img src="new_bom2excel_0830-자막5.gif" alt="BOM을 엑셀로 저장" width="600">
+
 <img src="https://github.com/insung-lee/rpa_profile/blob/main/new_bom2excel_0830-자막5.gif" alt="BOM을 엑셀로 저장" width="600">
 
 <!-- ## <a href="./BOM2Excel_Manual.md" target="_self">BOM2Excel_매뉴얼</a> -->
