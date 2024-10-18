@@ -1,2 +1,2 @@
 product.partNumber, location.locationIdentifier, startDate, duration, planParentType, planType, quantity, quantityUnits, planningCycle, source, sourceLink
-CO-AM-S185, LT-2, 2021-08-07, 1, PO_PLACED, INBOUND, 350, EA, ERP, http://lighttree.com/CO-AM-S185
+CO-AM-S185, LT-2, 2021-08-07, 1, PO_PLACED, INBOUND, 350, EA, 3, ERP, http://lighttree.com/CO-AM-S185
