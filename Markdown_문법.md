@@ -43,6 +43,18 @@ $X^2$
 
 $\frac{0.3077 + 0.3077 + 0.3077}{3} = 0.3077 ≈ 0.308$
 
+
+
+<head>
+ <script src="file:///D:/MathJax-2.7.9/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
+</head>
+
+Mathjax
+
+\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
+
+
+
 행렬
 
 $$\begin{pmatrix}
