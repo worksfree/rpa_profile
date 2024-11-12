@@ -24,7 +24,7 @@ MCT 기술자들은 DWG 파일을 종이로 출력해서 업무를 진행합니�
 -->
 
 ## Math Equation Example
-Let's add an inline equation: \\(E = mc^2\\).
+Let's add an inline equation: $\(E = mc^2)$.
 
 And a block equation:
 $\int_a^b f(x) \,dx = F(b) - F(a)$
