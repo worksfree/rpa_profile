@@ -1,0 +1,32 @@
+# _config.yml
+
+# 기본 사이트 정보
+title: "My Documentation Site"
+description: "Documentation with navigation and math/mermaid support"
+baseurl: "rpa_profile" # 예: /repo-name
+url: "https://worksfree.github.io" # 사용자 GitHub Pages URL
+
+# 테마 설정
+theme: "just-the-docs" # Just the Docs 테마 선택
+
+# 네비게이션 설정
+just_the_docs:
+  logo: "/assets/logo.png" # 로고 설정 (필요 시)
+  nav_order: 1             # 메뉴 순서 설정
+  show_navbar: true        # 상단 메뉴바 표시
+  show_sidebar: true       # 우측 사이드바 표시
+
+# 플러그인 설정 (수학 공식을 위한 kramdown 및 Mermaid 차트 지원)
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  input: GFM
+  syntax_highlighter_opts:
+    block:
+      mermaid: true
+
+# GitHub Pages가 Jekyll 빌드를 실행할 때 사용할 플러그인
+plugins:
+  - jekyll-mermaid     # Mermaid 차트 지원 플러그인
+  - jekyll-seo-tag     # SEO 태그 추가
+  - jekyll-sitemap     # 사이트맵 추가
