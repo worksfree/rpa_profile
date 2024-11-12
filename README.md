@@ -22,3 +22,22 @@ MCT 기술자들은 DWG 파일을 종이로 출력해서 업무를 진행합니�
 
 <a href="Markdown_문법.html" target="_self">마크다운으로 수식 만들기</a>
 -->
+
+## Math Equation Example
+Let's add an inline equation: \\(E = mc^2\\).
+
+And a block equation:
+$$
+\int_a^b f(x) \,dx = F(b) - F(a)
+$$
+
+## Mermaid Diagram Example
+
+Below is a simple Mermaid diagram:
+
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
