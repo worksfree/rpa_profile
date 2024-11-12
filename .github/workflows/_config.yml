@@ -7,7 +7,7 @@ baseurl: "rpa_profile" # 예: /repo-name
 url: "https://worksfree.github.io" # 사용자 GitHub Pages URL
 
 # 테마 설정
-theme: "just-the-docs" # Just the Docs 테마 선택
+# theme: "just-the-docs" # Just the Docs 테마 선택
 
 # 네비게이션 설정
 just_the_docs:
