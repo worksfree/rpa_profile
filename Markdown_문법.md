@@ -54,7 +54,6 @@ Mathjax
 \\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
 
 
-
 행렬
 
 $$\begin{pmatrix}
@@ -81,3 +80,21 @@ $$\begin{pmatrix}
 </table>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Math Equation Example
+Let's add an inline equation: $\(E = mc^2)$.
+
+And a block equation:
+$\int_a^b f(x) \,dx = F(b) - F(a)$
+
+## Mermaid Diagram Example
+
+Below is a simple Mermaid diagram:
+
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
